@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/cyberhuman-bot/wofi-catppuccin/stargazers"><img src="https://img.shields.io/github/stars/cyberhuman-bot/wofi-catppuccin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/cyberhuman-bot/wofi-catppuccin/issues"><img src="https://img.shields.io/github/issues/cyberhuman-bot/wofi-catppuccin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/cyberhuman-bot/wofi-catppuccin/contributors"><img src="https://img.shields.io/github/contributors/cyberhuman-bot/wofi-catppuccin?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/cyberhuman-bot/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/cyberhuman-bot/catppuccin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/cyberhuman-bot/catppuccin/issues"><img src="https://img.shields.io/github/issues/cyberhuman-bot/catppuccin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/cyberhuman-bot/catppuccin/contributors"><img src="https://img.shields.io/github/contributors/cyberhuman-bot/catppuccin?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
